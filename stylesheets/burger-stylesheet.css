@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(211, 177, 109, 0.733);
+}
+
+.page-title{
+    text-align: center;
+}
+
+.description{
+    font-size: 24px;
+}
+
+
+.ing-header{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.ing-list{
+    border: 2px solid gray;
+    border-radius: 40px;
+    
+}
